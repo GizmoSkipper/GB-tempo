@@ -1,0 +1,8 @@
+{
+  "name": "gb-tempo-sync",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WebSocket relay backend for GB Tempo rehearsal sessions",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
